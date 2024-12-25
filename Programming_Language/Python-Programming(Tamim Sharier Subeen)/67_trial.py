@@ -1,1 +1,0 @@
-My name is __main__
